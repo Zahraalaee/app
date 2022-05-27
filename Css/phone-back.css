@@ -1,0 +1,220 @@
+
+section[data-phone="1"]{
+    width: 100%;
+  
+    background-image: url(../img/iPhones11.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    
+}
+
+section[data-phone="1"]>div{
+padding: 150px;
+}
+
+section[data-phone="1"]>div>h2{
+    margin-top: 0;
+    font-size: 45px;
+    font-family: 'Core';
+}
+
+section[data-phone="1"]>div>hr{
+    width: 600px;
+    float: left;
+}
+
+section[data-phone="1"]>div>span>i{
+    background-color: #1E73BE;
+    padding: 12px;
+    border-radius: 30px;
+    font-size: 25px;
+    margin: 15px;
+}
+
+section[data-phone="1"]>div>span>h3{
+    display: inline-block;
+    font-family: 'Roboto';
+    font-size: 23px;
+    font-weight: lighter;
+}
+
+section[data-phone="1"]>div>span>p{
+    font-family: 'Roboto' ;
+    width: 50%;
+    margin-top: 3px;
+    margin-bottom: 40px;
+    padding-left: 85px;
+    line-height: 35px;
+    color: #ffffffbf;
+}
+
+
+/* iphone 21 */
+
+section[data-phone="2"]{
+    background-image: url(../img/iPhones21.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    color: white;
+} 
+
+section[data-phone="2"]>div{
+    padding: 140px;
+}
+
+section[data-phone="2"]>div>h2{
+    margin-top: 0;
+    font-family:'Roboto';
+    margin-bottom: 62px;
+    font-size: 45px;
+    font-weight: lighter;
+}
+section[data-phone="2"]>div>hr{
+   width: 500px;
+}
+
+section[data-phone="2"]>div>div{
+    margin: 60px;
+}
+
+section[data-phone="2"]>div>div>img{
+    margin-left: 10px;
+
+}
+
+section[data-phone="2"]>div>p{
+    font-family: 'Roboto' ;
+    width: 50%;
+    margin-bottom: 40px;
+    padding-left: 85px;
+    line-height: 40px;
+    color: #ffffffbf;
+}
+
+section[data-phone="2"]>div>span{
+margin: 85px;
+display: block;
+background: #00000054;
+width: 52%;
+padding: 35px;
+}
+
+section[data-phone="2"]>div>span>button{
+    padding: 20px 40px;
+    border-radius: 15px;
+    background-color: #1E73BE;
+    border: none;
+}
+
+section[data-phone="2"]>div>span>i{
+color: #4E5355;
+margin-left: 36px;
+font-size: 45px;
+position: relative;
+top: 15px;
+}
+
+
+/* iphone 31 */
+
+section[data-phone="3"] {
+    width: 100%;
+    color: white;
+     background-image: url(../img/iPhones31.webp);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+}
+
+section[data-phone="3"]>div{
+    padding: 150px;
+}
+
+section[data-phone="3"]>div>hr{
+    width: 500px;
+}
+
+section[data-phone="3"]>div>h2{
+    margin-top: 0;
+    font-family:'Roboto';
+    margin-bottom: 62px;
+    font-size: 45px;
+    font-weight: lighter;
+}
+
+
+section[data-phone="3"]>div>section{
+    display: flex;
+}
+
+
+section[data-phone="3"]>div>section>div{
+margin: 10px;
+}
+
+section[data-phone="3"]>div>section>div>img{
+    padding: 25px;
+}
+
+section[data-phone="3"]>div>section>div>p{
+    font-family: 'Roboto' ;
+    width: 55%;
+    padding-left:15px;
+    line-height: 30px;
+    color: #ffffff;
+}
+
+
+section[data-phone="3"]>div>section>div>ul{
+    font-family: 'Roboto' ;
+    line-height: 45px;
+    color: #ffffff;
+    list-style: none;
+}
+
+section[data-phone="3"]>div>section>div>ul>li>i{
+    margin: 10px;
+}
+
+
+section[data-phone="3"]>div>div>span{
+    margin: 85px;
+    display: block;
+    background: #00000054;
+    width: 52%;
+    padding: 35px;
+}
+
+section[data-phone="3"]>div>span>i{
+    color: #4E5355;
+    margin-left: 36px;
+    font-size: 45px;
+    position: relative;
+    top: 15px;
+}
+
+
+section[data-phone="3"]>div>span>button{
+padding: 20px 40px;
+border-radius: 15px;
+background-color: #1E73BE;
+border: none;
+}
+
+
+
+section[data-phone="3"]>div>span{
+    margin: 30px;
+    display: block;
+    background: #00000054;
+    width: 57%;
+    padding: 35px;
+    }
+    
+
+
+

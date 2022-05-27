@@ -1,0 +1,42 @@
+@import url(setting.css);
+
+/* start header */
+@import url(header.css);
+/* end header */
+
+/* start INTRO*/
+@import url(intro.css);
+/* end INTRO */
+
+/* start features */
+@import url(FEATURES.css);
+/* end features */
+
+/*start SCREENSHOTS */
+@import url(SCREENSHOTS.css);
+/* end SCREENSHOTS */
+
+/*photo parallax*/
+@import url(phone-back.css);
+/* end photo parallax */
+
+/* about */
+@import url(about.css);
+/* end about */
+
+/* Team */
+@import url(team.css);
+/* end Team */
+
+/* contact */
+@import url(contact.css);
+/* end contact */
+
+@import url(footer.css);
+
+
+@import url(Download.css);
+
+
+
+

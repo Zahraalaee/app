@@ -1,0 +1,64 @@
+section.about{
+    background-color: #141719;
+    color: white;
+    padding: 150px;
+    padding-bottom: 0;
+    font-family: 'Core';
+}
+
+section.about>h2{
+    font-size: 45px;
+    margin-top: 0;
+    text-align:center;
+}
+
+section.about>section{
+    display: flex;
+}
+
+section.about>section>div{
+    width: 80%;
+    text-align: justify;
+}
+
+section.about>section>div>h3{
+    font-size: 25px;
+}
+
+section.about>section>div>p{
+    line-height: 35px;
+}
+
+
+section.about>section>div[data-rightside]{
+    margin-left: 180px;
+    width: 40%;
+}
+
+section.about>section>div>progress{
+    display: block;
+    padding: 15px;
+    width: 250px;
+    position: relative;
+}
+
+section.about>section>div>progress[data-c]{
+ top: 50px;
+}
+
+section.about>section>div>progress[data-Interface]{
+    top: 80px;
+}
+
+section.about>section>div>progress[data-Design]{
+    top: 100px;
+}
+
+section.about>section>div>progress[data-python]{
+    top: 130px;
+}
+
+
+
+
+

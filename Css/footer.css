@@ -1,0 +1,50 @@
+section.footer{
+    height: 100px;
+    background-color: #141719;
+    display: flex;
+    color: white;
+}
+
+section.footer>div>i{
+    margin-left: 15px;
+}
+
+section.footer>div>i[data-twitter]{
+    background-color: rgba(190, 253, 255, 0.699);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+section.footer>div>i[data-facebook]{
+    background-color: rgba(0, 60, 128, 0.678);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+section.footer>div>i[data-telegram]{
+    background-color: rgba(133, 227, 255, 0.356);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+section.footer>div>i[data-instagram]{
+    background-color: rgba(202, 0, 0, 0.479);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.data-cpyright{
+    position: relative;
+    left: 300px;
+    margin: 30px;
+    color: gray;
+    font-size: 18px;
+}
+
+.iconfooter{
+    position: relative;
+    left: 700px;
+    margin: 28px;
+    font-size: 20px;
+}
+

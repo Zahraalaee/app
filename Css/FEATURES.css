@@ -1,0 +1,124 @@
+section.FEATURES{
+    padding: 150px;
+    text-align: center;
+    background-color: #272C30;
+    color: white;
+}
+
+section.FEATURES>h2{
+    margin: 0;
+    font-family:'Core';
+    font-size: 45px;
+}
+
+section.FEATURES>hr{
+    width: 200px;
+}
+section.FEATURES>h4{
+    font-family:'Core';
+    font-size: 25px;
+    margin: 20px;
+}
+
+section.FEATURES>div{
+    display: flex;
+}
+section.FEATURES>i{
+    color: white;
+
+}
+
+section.FEATURES>div>div>i{
+    font-size: 25px;
+    border: 1px solid #ffffff6b;
+    padding: 18px;
+    border-radius: 38px;
+    color: white;
+    transition: 1s;
+}
+
+
+section.FEATURES>div>div>span{
+    text-align: center;
+}
+
+section.FEATURES>div>div>span>h4{
+    font-family:'Core';    
+    font-size: 20px;
+    color: whitesmoke;
+    margin: 15px;
+}
+
+section.FEATURES>div>div>span>p{
+    line-height: 25px;
+    color: gainsboro;
+}
+
+section.FEATURES>div>div{
+    margin: 12px;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+section.FEATURES>div>div.skyblue-cart{
+    background-color: #1EBEB8;
+}
+
+section.FEATURES>div>div.skyblue-cart:hover>i{
+color: gray;
+border: 1px solid white;
+transform: scale(1.1);
+}
+
+section.FEATURES>div>div.green-cart{
+    background-color: rgb(30, 190, 104);
+}
+
+section.FEATURES>div>div.green-cart:hover>i{
+    color: rgb(0, 255, 106);
+    transform: scale(1.1);
+    border: 1px solid white;
+}
+
+section.FEATURES>div>div.blue-screen{
+    background-color: #1E73BE;
+}
+
+section.FEATURES>div>div.blue-screen:hover>i{
+    color: rgb(55, 192, 216);
+    transform: scale(1.1);
+    border: 1px solid white;
+}
+
+section.FEATURES>div>div.Purple-cart{
+    background-color: rgb(122, 63, 157);
+}
+
+section.FEATURES>div>div.Purple-cart:hover>i{
+    color: rgb(255, 230, 0);
+    transform: scale(1.1);
+    border: 1px solid white;
+}
+
+section.FEATURES>div>div.pink-cart{
+    background-color: rgb(156, 64, 123);
+}
+
+section.FEATURES>div>div.pink-cart:hover>i{
+    color: rgb(0, 0, 0);
+    transform: scale(1.1);
+    border: 1px solid white;
+}
+
+section.FEATURES>div>div.orange-cart{
+    background-color: rgb(235, 122, 36);
+}
+
+section.FEATURES>div>div.orange-cart:hover>i{
+    color: rgb(0, 77, 54);
+    transform: scale(1.1);
+    border: 1px solid white;
+}
+
+
+

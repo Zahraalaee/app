@@ -1,0 +1,31 @@
+section.intro{
+    padding: 100px;
+    padding-bottom: 0;
+    background-color: #1F2326;
+    text-align: center;
+}
+
+section.intro>h2{
+    margin: 0px;
+    padding: 30px;
+    font-size: 45px;
+    font-family:'Core';
+    color: white;
+}
+
+section.intro>hr{
+    width: 200px;
+}
+
+section.intro>div{
+    font-family: 'Roboto';
+    text-align: justify;
+    padding: 35px;
+    color: white;
+    line-height: 35px;
+    column-count: 3;
+    font-size: 17px;
+    column-gap: 36px;
+}
+
+

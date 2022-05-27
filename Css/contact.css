@@ -1,0 +1,71 @@
+section.CONTACT{
+    width: 100%;
+    height: 650px;
+    background-image: url(../img/dark_wood1.webp);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+section.CONTACT>div>h2{
+    font-family: 'Core';
+    margin-top: 0;
+    padding-top: 50px;
+    color: white;
+    font-size: 46px;
+}
+
+section.CONTACT>div>form>input{
+    margin: 15px;
+    width: 400px;
+    height: 42px;
+    border-radius: 8px;
+    color: white;
+    background-color: rgba(128, 128, 128, 0.678);
+    outline: none;
+    box-shadow: 0px 2px 2px 0px rgb(207, 201, 201);
+}
+
+
+
+section.CONTACT>div>form>textarea{
+    resize: none;
+    width: 850px;
+    height: 140px;
+    border-radius: 10px;
+    margin: 10px;
+    color: white;
+    background-color: rgba(128, 128, 128, 0.541);
+    outline: none;
+    box-shadow: 0px 2px 2px 0px rgb(207, 201, 201);
+}
+
+section.CONTACT>div>form>button{
+    display: block;
+    position: relative;
+    left: 343px;
+    top: 25px;
+    padding: 12px 45px;
+    background-color: #1E73BE;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+section.CONTACT>div>form>button:hover{
+background-color:#124069 ;
+box-shadow: 0px 3px 8px 0px rgb(76, 77, 88);
+}
+
+
+
+
+
+
+
+
+
+
+
+
